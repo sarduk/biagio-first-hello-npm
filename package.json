@@ -1,0 +1,23 @@
+{
+  "name": "biagio-first-hello-npm",
+  "version": "1.0.0",
+  "description": "descr biagio-first-hello-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarduk/biagio-first-hello-npm.git"
+  },
+  "keywords": [
+    "tutorial",
+    "npm-package"
+  ],
+  "author": "biagiodevel@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarduk/biagio-first-hello-npm/issues"
+  },
+  "homepage": "https://github.com/sarduk/biagio-first-hello-npm#readme"
+}
